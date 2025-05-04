@@ -1,12 +1,11 @@
 # hello-world
 
 
-Hi Machines learners,
+Hi Machine learners,
 
 Arbaz here.
-I want to be a coder and am intesrested in different coding languages.
-I have a good understanding of Queries, and worked on SQL, PL/SQL, Python, Linux, Spark, BigData Technologies.
-Interested in Data, Data & Data... n many more.. JK.
-Well am interesting in lots of topics like Data Science, AWS Architect, Devops, ML, AI ...
+I am a Data Engineer and a coder by nature, intesrested in different coding languages.
+I have a good understanding of Datas & Queries, and worked on SQL, PL/SQL, Python, Linux, Spark, BigData Technologies, Airflow, AWS Cloud, ....
+Well am interesting in lots of topics like Data Science, AWS Architect, Devops, ML, AI ...and much more...
 
 Adios!
